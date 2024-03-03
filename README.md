@@ -1,4 +1,4 @@
-![Banner](https://github.com/amalpk531/amalpk531/blob/main/code.gif)
+![Banner](https://github.com/amalpk531/amalpk531/blob/main/cc.gif)
 <h1 align="center">Hi , I'm amal pk</h1>
 <h3 align="center">A passionate developer from India</h3>
 
