@@ -4,7 +4,7 @@
 
 - 🌱 b-tech **in information technology.**
 
-- 📫 reach me at: **amal18120007@gmail.com**
+- 📫 reach me at: **amalpk531@gmail.com**
 
 - ⚡ Fun fact **atleast 01-07-365**
 
