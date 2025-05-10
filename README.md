@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/amal-pk/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal-pk" height="20" width="30" />
   </a>
-  <a href="https://www.instagram.com/a.m.a.l_p.k" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/_amal_p.k_" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amal_5_3_1_" height="20" width="30" />
   </a>
 </p>
