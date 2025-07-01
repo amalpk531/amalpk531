@@ -3,10 +3,6 @@
 <div align="center">
   
 # 👋 Hi there, I'm **Amal PK**
-### 🚀 Passionate Developer | 🇮🇳 From India
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=218&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=A.Developer;who;Always Learning!" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -23,7 +19,8 @@
 
 🎓 **B.Tech in Information Technology**  
 📧 **amalpk531@gmail.com**  
-⚡ **Fun Fact:** *Code at least once daily - 365 days a year!*
+⚡ **Fun Fact:** *07-30-365*
+<img align="center" src="https://komarev.com/ghpvc/?username=amalpk531&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </tr>
 </table>
@@ -47,7 +44,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=amalpk531&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
 
 </div>
 
