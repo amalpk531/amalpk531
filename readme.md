@@ -44,8 +44,11 @@ fun_fact: "work  01-07-365"
 ### 🌐 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amal_5_3_1_)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-pk/)
+&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_amal_p.k_)
+&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalpk531@gmail.com)
 
 </div>
@@ -55,24 +58,34 @@ fun_fact: "work  01-07-365"
 </div>
 
 <div align="center">
-
-
-<h3>🚀 Tech Stack</h3>
-<p align="centre">
-  <img src="https://skillicons.dev/icons?i=html" height="32" style="margin-right:20px;" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="32" style="margin-right:20px;" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=js" height="32" style="margin-right:20px;" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=python" height="32" style="margin-right:20px;" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=react" height="32" style="margin-right:20px;" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=django" height="32" style="margin-right:20px;" alt="Django"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="32" style="margin-right:20px;" alt="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="32" style="margin-right:20px;" alt="Figma"/>
-  <img src="https://skillicons.dev/icons?i=git" height="32" style="margin-right:20px;" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="32" style="margin-right:20px;" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="32" style="margin-right:20px;" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" style="margin-right:20px;" alt="Node.js"/>
-</p>
+  <h3>🚀 Tech Stack</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html" height="32" alt="HTML"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" height="32" alt="CSS"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" height="32" alt="JavaScript"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" height="32" alt="React"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=django" height="32" alt="Django"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="Bootstrap"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" height="32" alt="Git"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VS Code"/>
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js"/>
+  </p>
 </div>
+
 
 <div align="center">
 *"make your actions reflects your word."*
