@@ -1,88 +1,455 @@
-![Banner](https://github.com/amalpk531/amalpk531/blob/main/ccooddeee.gif)
 
-<div align="center">
-  
-# 👋 Hi there, I'm **Amal PK**
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amal PK - Developer Profile</title>
+    <link href="https://github.com/amalpk531/amalpk531/blob/main/ccooddeee.gif" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
----
+        body {
+            background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #21262d 100%);
+            color: #e6edf3;
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
 
-<div align="center">
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+            position: relative;
+        }
 
-## 🎯 **About Me**
+        /* Animated background elements */
+        .bg-animation {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            overflow: hidden;
+        }
 
-</div>
+        .floating-element {
+            position: absolute;
+            width: 6px;
+            height: 6px;
+            background: #58a6ff;
+            border-radius: 50%;
+            animation: float 15s infinite linear;
+            opacity: 0.3;
+        }
 
-<table align="center">
-<tr>
-<td align="center" width="100%">
+        @keyframes float {
+            0% {
+                transform: translateY(100vh) rotate(0deg);
+                opacity: 0;
+            }
+            10% {
+                opacity: 0.3;
+            }
+            90% {
+                opacity: 0.3;
+            }
+            100% {
+                transform: translateY(-100px) rotate(360deg);
+                opacity: 0;
+            }
+        }
 
-🎓 **B.Tech in Information Technology**  
-📧 **amalpk531@gmail.com**  
-⚡ **Fun Fact:** *07-30-365*
-<img align="center" src="https://komarev.com/ghpvc/?username=amalpk531&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+        /* Header section */
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            position: relative;
+        }
 
-</tr>
-</table>
+        .banner {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(90deg, #58a6ff, #7c3aed, #f472b6);
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            position: relative;
+            overflow: hidden;
+        }
 
----
+        .banner::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            animation: shine 3s infinite;
+        }
 
-<div align="center">
+        @keyframes shine {
+            0% { left: -100%; }
+            100% { left: 100%; }
+        }
 
-## 🌐 **Let's Connect**
+        .title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(45deg, #58a6ff, #7c3aed, #f472b6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
 
-<a href="https://twitter.com/amal_5_3_1_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://www.linkedin.com/in/amal-pk/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/_amal_p.k_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:amalpk531@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+        @keyframes glow {
+            from { filter: brightness(1); }
+            to { filter: brightness(1.2); }
+        }
 
+        .subtitle {
+            font-size: 1.2rem;
+            color: #7d8590;
+            font-weight: 300;
+            letter-spacing: 0.5px;
+        }
 
+        /* Info cards */
+        .info-section {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
 
-</div>
+        .info-card {
+            background: rgba(33, 38, 45, 0.8);
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 1.5rem;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
 
----
+        .info-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, #58a6ff, #7c3aed, #f472b6);
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+        }
 
-<div align="center">
+        .info-card:hover::before {
+            transform: scaleX(1);
+        }
 
-## 🛠️ **Tech Stack & Tools**
+        .info-card:hover {
+            transform: translateY(-5px);
+            border-color: #58a6ff;
+            box-shadow: 0 10px 30px rgba(88, 166, 255, 0.1);
+        }
 
-<a href="https://www.python.org" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</a>
+        .info-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
 
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</a>
+        .info-item:last-child {
+            margin-bottom: 0;
+        }
 
-</div>
+        .info-icon {
+            width: 20px;
+            height: 20px;
+            margin-right: 12px;
+            color: #58a6ff;
+        }
 
----
+        .info-text {
+            font-size: 0.95rem;
+            line-height: 1.4;
+        }
 
+        .highlight {
+            color: #58a6ff;
+            font-weight: 500;
+        }
 
-</div>
+        /* Social links */
+        .social-section {
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            color: #e6edf3;
+            position: relative;
+            display: inline-block;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, #58a6ff, #7c3aed);
+        }
+
+        .social-links {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .social-link {
+            display: flex;
+            align-items: center;
+            padding: 0.8rem 1.5rem;
+            background: rgba(33, 38, 45, 0.8);
+            border: 1px solid #30363d;
+            border-radius: 50px;
+            text-decoration: none;
+            color: #e6edf3;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .social-link:hover {
+            background: rgba(88, 166, 255, 0.1);
+            border-color: #58a6ff;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(88, 166, 255, 0.2);
+        }
+
+        .social-icon {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+        }
+
+        /* Skills section */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 1rem;
+        }
+
+        .skill-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 1.5rem 1rem;
+            background: rgba(33, 38, 45, 0.8);
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+            text-decoration: none;
+            color: #e6edf3;
+        }
+
+        .skill-item:hover {
+            transform: translateY(-5px) scale(1.05);
+            border-color: #58a6ff;
+            box-shadow: 0 10px 25px rgba(88, 166, 255, 0.15);
+        }
+
+        .skill-icon {
+            width: 40px;
+            height: 40px;
+            margin-bottom: 0.8rem;
+            transition: all 0.3s ease;
+        }
+
+        .skill-item:hover .skill-icon {
+            transform: scale(1.1);
+        }
+
+        .skill-name {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            font-weight: 500;
+            text-align: center;
+        }
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            .title {
+                font-size: 2rem;
+            }
+            
+            .banner {
+                font-size: 1.5rem;
+                height: 150px;
+            }
+            
+            .info-section {
+                grid-template-columns: 1fr;
+            }
+            
+            .social-links {
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-animation">
+        <!-- Floating elements will be added by JavaScript -->
+    </div>
+
+    <div class="container">
+        <header class="header">
+            <div class="banner">
+                &lt;/&gt; CODE MAGIC
+            </div>
+            <h1 class="title">Hi, I'm Amal PK</h1>
+            <p class="subtitle">A passionate developer from India</p>
+        </header>
+
+        <section class="info-section">
+            <div class="info-card">
+                <div class="info-item">
+                    <span class="info-icon">🎓</span>
+                    <span class="info-text">B-Tech in <span class="highlight">Information Technology</span></span>
+                </div>
+                <div class="info-item">
+                    <span class="info-icon">📧</span>
+                    <span class="info-text">amalpk531@gmail.com</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-icon">⚡</span>
+                    <span class="info-text">Fun fact: <span class="highlight">At least 01-07-365</span></span>
+                </div>
+            </div>
+        </section>
+
+        <section class="social-section">
+            <h3 class="section-title">Connect with me</h3>
+            <div class="social-links">
+                <a href="https://twitter.com/amal_5_3_1_" class="social-link" target="_blank">
+                    <span class="social-icon">🐦</span>
+                    Twitter
+                </a>
+                <a href="https://www.linkedin.com/in/amal-pk/" class="social-link" target="_blank">
+                    <span class="social-icon">💼</span>
+                    LinkedIn
+                </a>
+                <a href="https://www.instagram.com/_amal_p.k_" class="social-link" target="_blank">
+                    <span class="social-icon">📸</span>
+                    Instagram
+                </a>
+            </div>
+        </section>
+
+        <section class="skills-section">
+            <h3 class="section-title">Languages and Tools</h3>
+            <div class="skills-grid">
+                <div class="skill-item">
+                    <div class="skill-icon">🅱️</div>
+                    <span class="skill-name">Bootstrap</span>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">🎨</div>
+                    <span class="skill-name">CSS3</span>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">🎯</div>
+                    <span class="skill-name">Figma</span>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">🌐</div>
+                    <span class="skill-name">HTML5</span>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">⚡</div>
+                    <span class="skill-name">JavaScript</span>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">🐍</div>
+                    <span class="skill-name">Python</span>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">🎸</div>
+                    <span class="skill-name">Django</span>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">⚛️</div>
+                    <span class="skill-name">React</span>
+                </div>
+                <div class="skill-item">
+                    <div class="skill-icon">🔗</div>
+                    <span class="skill-name">Git</span>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        // Create floating background elements
+        function createFloatingElements() {
+            const bgAnimation = document.querySelector('.bg-animation');
+            const numberOfElements = 15;
+
+            for (let i = 0; i < numberOfElements; i++) {
+                const element = document.createElement('div');
+                element.className = 'floating-element';
+                element.style.left = Math.random() * 100 + '%';
+                element.style.animationDelay = Math.random() * 15 + 's';
+                element.style.animationDuration = (Math.random() * 10 + 10) + 's';
+                bgAnimation.appendChild(element);
+            }
+        }
+
+        // Initialize floating elements
+        createFloatingElements();
+
+        // Add interactive hover effects
+        document.querySelectorAll('.skill-item').forEach(item => {
+            item.addEventListener('mouseenter', function() {
+                this.style.background = 'rgba(88, 166, 255, 0.1)';
+            });
+            
+            item.addEventListener('mouseleave', function() {
+                this.style.background = 'rgba(33, 38, 45, 0.8)';
+            });
+        });
+    </script>
+</body>
+</html>
