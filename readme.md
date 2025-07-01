@@ -87,5 +87,5 @@ fun_fact: "work  01-07-365"
 </div>
 
   <h4 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=15&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=600&lines=make+your+actions+reflects+your+word."" alt="Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=15&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=600&lines='+make+your+action+reflects+your+word+'"" alt="Subtitle" />
   </h4>
