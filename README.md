@@ -53,58 +53,23 @@ interests: ["Web Development", "Open Source", "Tech Innovation"]
 
 <table>
   <tr>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="HTML" />
-      <br>HTML5
-    </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="CSS" />
-      <br>CSS3
-    </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=python" width="32" height="32" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=django" width="32" height="32" alt="Django" />
-      <br>Django
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="32"><br><small>HTML5</small></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="32"><br><small>CSS3</small></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="32"><br><small>JavaScript</small></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="32"><br><small>Python</small></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="32"><br><small>React</small></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="32"><br><small>Django</small></td>
   </tr>
   <tr>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="32" height="32" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=figma" width="32" height="32" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="0">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" alt="node.js" />
-      <br>Linux
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="32"><br><small>Bootstrap</small></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="32"><br><small>Figma</small></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="32"><br><small>Git</small></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="32"><br><small>GitHub</small></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="32"><br><small>VS Code</small></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="32"><br><small>Node.js</small></td>
   </tr>
 </table>
+
 
 </div>
 
