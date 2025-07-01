@@ -1,8 +1,8 @@
 ![Banner](https://github.com/amalpk531/amalpk531/blob/main/ccooddeee.gif)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Amal+PK;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=40&duration=3000&pause=10000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Amal+PK;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</h2>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=20&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=600&lines=A+passionate+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+amazing+digital+experiences;Always+learning+new+technologies" alt="Subtitle" />
@@ -28,8 +28,6 @@ education: B-Tech in Information Technology
 location: India
 email: amalpk531@gmail.com
 fun_fact: "At least 01-07-365"
-currently_learning: ["Advanced React", "Cloud Technologies", "DevOps"]
-interests: ["Web Development", "Open Source", "Tech Innovation"]
 ```
 
 ---
@@ -100,65 +98,18 @@ interests: ["Web Development", "Open Source", "Tech Innovation"]
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
     </td>
   </tr>
 </table>
 
-</div>
 
----
 
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amalpk531&show_icons=true&theme=tokyonight&border_radius=16&border_color=58a6ff" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amalpk531&theme=tokyonight&border_radius=16&border=58a6ff" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalpk531&layout=compact&theme=tokyonight&border_radius=16&border_color=58a6ff" />
-
-</div>
-
----
 
 <div align="center">
 
-### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amalpk531&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Activity Graph
-
-[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amalpk531&theme=tokyo-night&custom_title=Amal's%20Contribution%20Graph&border_radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-**💙 Thank you for visiting my profile!**
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-[![](https://visitcount.itsvg.in/api?id=amalpk531&icon=0&color=12)](https://visitcount.itsvg.in)
+*"make your actions reflects your word"* 
 
 </div>
