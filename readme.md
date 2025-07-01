@@ -16,9 +16,13 @@
 ```yaml
   
 name: Amal PK
+
 education: B-Tech in Information Technology
+
 location: India
+
 email: amalpk531@gmail.com
+
 fun_fact: "work  01-07-365"
 
 ```
@@ -51,18 +55,18 @@ fun_fact: "work  01-07-365"
 
 <h3>🚀 Tech Stack</h3>
 <p align="centre">
-  <img src="https://skillicons.dev/icons?i=html" height="32" style="margin-right:10px;" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="32" style="margin-right:10px;" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=js" height="32" style="margin-right:10px;" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=python" height="32" style="margin-right:10px;" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=react" height="32" style="margin-right:10px;" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=django" height="32" style="margin-right:10px;" alt="Django"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="32" style="margin-right:10px;" alt="Bootstrap"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="32" style="margin-right:10px;" alt="Figma"/>
-  <img src="https://skillicons.dev/icons?i=git" height="32" style="margin-right:10px;" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="32" style="margin-right:10px;" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="32" style="margin-right:10px;" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" style="margin-right:10px;" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=html" height="32" style="margin-right:20px;" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="32" style="margin-right:20px;" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" height="32" style="margin-right:20px;" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python" height="32" style="margin-right:20px;" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=react" height="32" style="margin-right:20px;" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=django" height="32" style="margin-right:20px;" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="32" style="margin-right:20px;" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="32" style="margin-right:20px;" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=git" height="32" style="margin-right:20px;" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="32" style="margin-right:20px;" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="32" style="margin-right:20px;" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32" style="margin-right:20px;" alt="Node.js"/>
 </p>
 </div>
 
