@@ -1,53 +1,122 @@
 ![Banner](https://github.com/amalpk531/amalpk531/blob/main/ccooddeee.gif)
-<h1 align="center">Hi , I'm amal pk</h1>
-<h3 align="center">A passionate developer from India</h3>
 
-- 🌱 b-tech **in information technology.**
+<div align="center">
+  
+# 👋 Hi there, I'm **Amal PK**
+### 🚀 Passionate Developer | 🇮🇳 From India
 
-- 📫 reach me at: **amalpk531@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IT+Student;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 
-- ⚡ Fun fact **atleast 01-07-365**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/amal_5_3_1_" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amal_5_3_1_" height="20" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/amal-pk/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal-pk" height="20" width="30" />
-  </a>
-  <a href="https://www.instagram.com/_amal_p.k_" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amal_5_3_1_" height="20" width="30" />
-  </a>
-</p>
+---
 
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="20"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="20"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="20"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="20"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="20"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="20"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="30" height="20"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="20"/> 
-  </a>
-</p>
+## 🎯 **About Me**
 
+</div>
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+🎓 **B.Tech in Information Technology**  
+📧 **amalpk531@gmail.com**  
+⚡ **Fun Fact:** *Code at least once daily - 365 days a year!*
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amalpk531&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌐 **Let's Connect**
+
+<a href="https://twitter.com/amal_5_3_1_" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://www.linkedin.com/in/amal-pk/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/_amal_p.k_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:amalpk531@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ **Tech Stack & Tools**
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Languages" />
+
+### **Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=django,react,bootstrap" alt="Frameworks" />
+
+### **Design & Tools**
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" alt="Tools" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Analytics**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amalpk531&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="400"/>
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalpk531&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" width="400"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 **Contribution Graph**
+
+<img src="https://github.com/amalpk531/amalpk531/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **Random Dev Quote**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Star my repositories if you find them helpful!**  
+**🤝 Open to collaborations and new opportunities**
+
+<img src="https://komarev.com/ghpvc/?username=amalpk531&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+</div>
