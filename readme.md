@@ -14,7 +14,9 @@
 <div>
   
 ```yaml
-  
+
+### 🚀 About Me
+
 name: Amal PK
 
 education: B-Tech in Information Technology
@@ -27,13 +29,13 @@ fun_fact: "work  01-07-365"
 
 ```
 </div>
-<div align="center">  
+
   
-![Profile Views](https://komarev.com/ghpvc/?username=amalpk531&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 
 <div align="center">
-### 🚀 About Me
+
 </div>
 
 
@@ -47,8 +49,9 @@ fun_fact: "work  01-07-365"
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalpk531@gmail.com)
 
 </div>
-
----
+<div align="center">  
+![Profile Views](https://komarev.com/ghpvc/?username=amalpk531&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
 
 <div align="center">
 
