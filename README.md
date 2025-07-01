@@ -49,26 +49,23 @@ interests: ["Web Development", "Open Source", "Tech Innovation"]
 
 <div align="center">
 
-### 🛠️ Languages and Tools
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="32"><br><small>HTML5</small></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="32"><br><small>CSS3</small></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="32"><br><small>JavaScript</small></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="32"><br><small>Python</small></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="32"><br><small>React</small></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="32"><br><small>Django</small></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="32"><br><small>Bootstrap</small></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="32"><br><small>Figma</small></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="32"><br><small>Git</small></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="32"><br><small>GitHub</small></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="32"><br><small>VS Code</small></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="32"><br><small>Node.js</small></td>
-  </tr>
-</table>
+
+### 🚀 Tech Stack
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![React](https://skillicons.dev/icons?i=react)
+![Django](https://skillicons.dev/icons?i=django)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
 
 
 </div>
