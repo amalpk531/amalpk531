@@ -1,454 +1,164 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amal PK - Developer Profile</title>
-    <link href="https://github.com/amalpk531/amalpk531/blob/main/ccooddeee.gif" rel="stylesheet">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+![Banner](https://github.com/amalpk531/amalpk531/blob/main/ccooddeee.gif)
 
-        body {
-            background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #21262d 100%);
-            color: #e6edf3;
-            font-family: 'Inter', sans-serif;
-            min-height: 100vh;
-            overflow-x: hidden;
-        }
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Amal+PK;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</h1>
 
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 2rem;
-            position: relative;
-        }
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=20&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=600&lines=A+passionate+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+amazing+digital+experiences;Always+learning+new+technologies" alt="Subtitle" />
+</h3>
 
-        /* Animated background elements */
-        .bg-animation {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: -1;
-            overflow: hidden;
-        }
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=amalpk531&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+  
+</div>
 
-        .floating-element {
-            position: absolute;
-            width: 6px;
-            height: 6px;
-            background: #58a6ff;
-            border-radius: 50%;
-            animation: float 15s infinite linear;
-            opacity: 0.3;
-        }
+---
 
-        @keyframes float {
-            0% {
-                transform: translateY(100vh) rotate(0deg);
-                opacity: 0;
-            }
-            10% {
-                opacity: 0.3;
-            }
-            90% {
-                opacity: 0.3;
-            }
-            100% {
-                transform: translateY(-100px) rotate(360deg);
-                opacity: 0;
-            }
-        }
+<div align="center">
 
-        /* Header section */
-        .header {
-            text-align: center;
-            margin-bottom: 3rem;
-            position: relative;
-        }
+### 🚀 About Me
 
-        .banner {
-            width: 100%;
-            height: 200px;
-            background: linear-gradient(90deg, #58a6ff, #7c3aed, #f472b6);
-            border-radius: 15px;
-            margin-bottom: 2rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 2.5rem;
-            font-weight: 700;
-            color: white;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .banner::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
-            animation: shine 3s infinite;
-        }
+```yaml
+name: Amal PK
+education: B-Tech in Information Technology
+location: India
+email: amalpk531@gmail.com
+fun_fact: "At least 01-07-365"
+currently_learning: ["Advanced React", "Cloud Technologies", "DevOps"]
+interests: ["Web Development", "Open Source", "Tech Innovation"]
+```
 
-        @keyframes shine {
-            0% { left: -100%; }
-            100% { left: 100%; }
-        }
+---
 
-        .title {
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 3rem;
-            font-weight: 700;
-            margin-bottom: 0.5rem;
-            background: linear-gradient(45deg, #58a6ff, #7c3aed, #f472b6);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: glow 2s ease-in-out infinite alternate;
-        }
+<div align="center">
 
-        @keyframes glow {
-            from { filter: brightness(1); }
-            to { filter: brightness(1.2); }
-        }
+### 🌐 Connect With Me
 
-        .subtitle {
-            font-size: 1.2rem;
-            color: #7d8590;
-            font-weight: 300;
-            letter-spacing: 0.5px;
-        }
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amal_5_3_1_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-pk/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_amal_p.k_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalpk531@gmail.com)
 
-        /* Info cards */
-        .info-section {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 1.5rem;
-            margin-bottom: 3rem;
-        }
+</div>
 
-        .info-card {
-            background: rgba(33, 38, 45, 0.8);
-            border: 1px solid #30363d;
-            border-radius: 12px;
-            padding: 1.5rem;
-            backdrop-filter: blur(10px);
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
+---
 
-        .info-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 2px;
-            background: linear-gradient(90deg, #58a6ff, #7c3aed, #f472b6);
-            transform: scaleX(0);
-            transition: transform 0.3s ease;
-        }
+<div align="center">
 
-        .info-card:hover::before {
-            transform: scaleX(1);
-        }
+### 🛠️ Languages and Tools
 
-        .info-card:hover {
-            transform: translateY(-5px);
-            border-color: #58a6ff;
-            box-shadow: 0 10px 30px rgba(88, 166, 255, 0.1);
-        }
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
 
-        .info-item {
-            display: flex;
-            align-items: center;
-            margin-bottom: 1rem;
-            font-family: 'JetBrains Mono', monospace;
-        }
+</div>
 
-        .info-item:last-child {
-            margin-bottom: 0;
-        }
+---
 
-        .info-icon {
-            width: 20px;
-            height: 20px;
-            margin-right: 12px;
-            color: #58a6ff;
-        }
+<div align="center">
 
-        .info-text {
-            font-size: 0.95rem;
-            line-height: 1.4;
-        }
+### 📊 GitHub Stats
 
-        .highlight {
-            color: #58a6ff;
-            font-weight: 500;
-        }
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amalpk531&show_icons=true&theme=tokyonight&border_radius=16&border_color=58a6ff" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amalpk531&theme=tokyonight&border_radius=16&border=58a6ff" />
 
-        /* Social links */
-        .social-section {
-            margin-bottom: 3rem;
-        }
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalpk531&layout=compact&theme=tokyonight&border_radius=16&border_color=58a6ff" />
 
-        .section-title {
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 1.5rem;
-            font-weight: 600;
-            margin-bottom: 1.5rem;
-            color: #e6edf3;
-            position: relative;
-            display: inline-block;
-        }
+</div>
 
-        .section-title::after {
-            content: '';
-            position: absolute;
-            bottom: -5px;
-            left: 0;
-            width: 100%;
-            height: 2px;
-            background: linear-gradient(90deg, #58a6ff, #7c3aed);
-        }
+---
 
-        .social-links {
-            display: flex;
-            gap: 1rem;
-            flex-wrap: wrap;
-        }
+<div align="center">
 
-        .social-link {
-            display: flex;
-            align-items: center;
-            padding: 0.8rem 1.5rem;
-            background: rgba(33, 38, 45, 0.8);
-            border: 1px solid #30363d;
-            border-radius: 50px;
-            text-decoration: none;
-            color: #e6edf3;
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.9rem;
-            transition: all 0.3s ease;
-            backdrop-filter: blur(10px);
-        }
+### 🏆 GitHub Trophies
 
-        .social-link:hover {
-            background: rgba(88, 166, 255, 0.1);
-            border-color: #58a6ff;
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(88, 166, 255, 0.2);
-        }
+[![trophy](https://github-profile-trophy.vercel.app/?username=amalpk531&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-        .social-icon {
-            width: 20px;
-            height: 20px;
-            margin-right: 8px;
-        }
+</div>
 
-        /* Skills section */
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-            gap: 1rem;
-        }
+---
 
-        .skill-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 1.5rem 1rem;
-            background: rgba(33, 38, 45, 0.8);
-            border: 1px solid #30363d;
-            border-radius: 12px;
-            transition: all 0.3s ease;
-            backdrop-filter: blur(10px);
-            text-decoration: none;
-            color: #e6edf3;
-        }
+<div align="center">
 
-        .skill-item:hover {
-            transform: translateY(-5px) scale(1.05);
-            border-color: #58a6ff;
-            box-shadow: 0 10px 25px rgba(88, 166, 255, 0.15);
-        }
+### 📈 Activity Graph
 
-        .skill-icon {
-            width: 40px;
-            height: 40px;
-            margin-bottom: 0.8rem;
-            transition: all 0.3s ease;
-        }
+[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amalpk531&theme=tokyo-night&custom_title=Amal's%20Contribution%20Graph&border_radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-        .skill-item:hover .skill-icon {
-            transform: scale(1.1);
-        }
+</div>
 
-        .skill-name {
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.8rem;
-            font-weight: 500;
-            text-align: center;
-        }
+---
 
-        /* Responsive design */
-        @media (max-width: 768px) {
-            .container {
-                padding: 1rem;
-            }
-            
-            .title {
-                font-size: 2rem;
-            }
-            
-            .banner {
-                font-size: 1.5rem;
-                height: 150px;
-            }
-            
-            .info-section {
-                grid-template-columns: 1fr;
-            }
-            
-            .social-links {
-                justify-content: center;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="bg-animation">
-        <!-- Floating elements will be added by JavaScript -->
-    </div>
+<div align="center">
 
-    <div class="container">
-        <header class="header">
-            <div class="banner">
-                &lt;/&gt; CODE MAGIC
-            </div>
-            <h1 class="title">Hi, I'm Amal PK</h1>
-            <p class="subtitle">A passionate developer from India</p>
-        </header>
+### 💭 Random Dev Quote
 
-        <section class="info-section">
-            <div class="info-card">
-                <div class="info-item">
-                    <span class="info-icon">🎓</span>
-                    <span class="info-text">B-Tech in <span class="highlight">Information Technology</span></span>
-                </div>
-                <div class="info-item">
-                    <span class="info-icon">📧</span>
-                    <span class="info-text">amalpk531@gmail.com</span>
-                </div>
-                <div class="info-item">
-                    <span class="info-icon">⚡</span>
-                    <span class="info-text">Fun fact: <span class="highlight">At least 01-07-365</span></span>
-                </div>
-            </div>
-        </section>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-        <section class="social-section">
-            <h3 class="section-title">Connect with me</h3>
-            <div class="social-links">
-                <a href="https://twitter.com/amal_5_3_1_" class="social-link" target="_blank">
-                    <span class="social-icon">🐦</span>
-                    Twitter
-                </a>
-                <a href="https://www.linkedin.com/in/amal-pk/" class="social-link" target="_blank">
-                    <span class="social-icon">💼</span>
-                    LinkedIn
-                </a>
-                <a href="https://www.instagram.com/_amal_p.k_" class="social-link" target="_blank">
-                    <span class="social-icon">📸</span>
-                    Instagram
-                </a>
-            </div>
-        </section>
+</div>
 
-        <section class="skills-section">
-            <h3 class="section-title">Languages and Tools</h3>
-            <div class="skills-grid">
-                <div class="skill-item">
-                    <div class="skill-icon">🅱️</div>
-                    <span class="skill-name">Bootstrap</span>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🎨</div>
-                    <span class="skill-name">CSS3</span>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🎯</div>
-                    <span class="skill-name">Figma</span>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🌐</div>
-                    <span class="skill-name">HTML5</span>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">⚡</div>
-                    <span class="skill-name">JavaScript</span>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🐍</div>
-                    <span class="skill-name">Python</span>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🎸</div>
-                    <span class="skill-name">Django</span>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">⚛️</div>
-                    <span class="skill-name">React</span>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🔗</div>
-                    <span class="skill-name">Git</span>
-                </div>
-            </div>
-        </section>
-    </div>
+---
 
-    <script>
-        // Create floating background elements
-        function createFloatingElements() {
-            const bgAnimation = document.querySelector('.bg-animation');
-            const numberOfElements = 15;
+<div align="center">
 
-            for (let i = 0; i < numberOfElements; i++) {
-                const element = document.createElement('div');
-                element.className = 'floating-element';
-                element.style.left = Math.random() * 100 + '%';
-                element.style.animationDelay = Math.random() * 15 + 's';
-                element.style.animationDuration = (Math.random() * 10 + 10) + 's';
-                bgAnimation.appendChild(element);
-            }
-        }
+**💙 Thank you for visiting my profile!**
 
-        // Initialize floating elements
-        createFloatingElements();
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-        // Add interactive hover effects
-        document.querySelectorAll('.skill-item').forEach(item => {
-            item.addEventListener('mouseenter', function() {
-                this.style.background = 'rgba(88, 166, 255, 0.1)';
-            });
-            
-            item.addEventListener('mouseleave', function() {
-                this.style.background = 'rgba(33, 38, 45, 0.8)';
-            });
-        });
-    </script>
-</body>
-</html>
+[![](https://visitcount.itsvg.in/api?id=amalpk531&icon=0&color=12)](https://visitcount.itsvg.in)
+
+</div>
