@@ -50,7 +50,8 @@ fun_fact: "work  01-07-365"
 
 </div>
 <div align="center">  
-![Profile Views](https://komarev.com/ghpvc/?username=amalpk531&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+ 
+  ![Profile Views](https://komarev.com/ghpvc/?username=amalpk531&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
 <div align="center">
