@@ -1,11 +1,11 @@
 ![Banner](https://github.com/amalpk531/amalpk531/blob/main/ccooddeee.gif)
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=40&duration=30000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Amal+PK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=40&duration=3000&pause=30000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Amal+PK" alt="Typing SVG" />
 </h3>
 
 <h5 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=20&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=600&lines=A+passionate+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Always+learning+new+technologies" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=10&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=600&lines=A+passionate+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Always+learning+new+technologies" alt="Subtitle" />
 </h5>
 
 <div align="center">
@@ -53,54 +53,54 @@ interests: ["Web Development", "Open Source", "Tech Innovation"]
 
 <table>
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="HTML" />
       <br>HTML5
     </td>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="CSS" />
       <br>CSS3
     </td>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=js" width="32" height="32" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=python" width="32" height="32" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React" />
       <br>React
     </td>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=django" width="32" height="32" alt="Django" />
       <br>Django
     </td>
   </tr>
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="32" height="32" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=figma" width="32" height="32" alt="Figma" />
       <br>Figma
     </td>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="80">
+    <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="VS Code" />
       <br>VS Code
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=linux" width="32" height="32" alt="Linux" />
+    <td align="center" width="0">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" alt="node.js" />
       <br>Linux
     </td>
   </tr>
