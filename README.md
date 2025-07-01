@@ -4,23 +4,22 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&duration=3000&pause=30000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Amal+PK" alt="Typing SVG" />
 </h3>
 
+<div>
 
-<h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=10&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=600&lines=A+passionate+developer+from+India;Always+learning+new+technologies" alt="Subtitle" />
-</h4>
+  <h4 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=10&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=600&lines=A+passionate+developer+from+India;Always+learning+new+technologies" alt="Subtitle" />
+  </h4>
 
 <div align="center">  
   
 ![Profile Views](https://komarev.com/ghpvc/?username=amalpk531&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
----
+
 <div align="center">
-
 ### 🚀 About Me
-
 </div>
-
+<div>
+  
 ```yaml
 name: Amal PK
 education: B-Tech in Information Technology
@@ -28,7 +27,7 @@ location: India
 email: amalpk531@gmail.com
 fun_fact: "At least 01-07-365"
 ```
-
+</div>
 ---
 
 <div align="center">
