@@ -5,19 +5,16 @@
 </h3>
 
 
-<h5 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=10&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=600&lines=A+passionate+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Always+learning+new+technologies" alt="Subtitle" />
-</h5>
-
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=10&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=600&lines=A+passionate+developer+from+India;Always+learning+new+technologies" alt="Subtitle" />
+</h4>
 
 <div align="center">  
   
 ![Profile Views](https://komarev.com/ghpvc/?username=amalpk531&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
 ---
-
 <div align="center">
 
 ### 🚀 About Me
@@ -30,8 +27,6 @@ education: B-Tech in Information Technology
 location: India
 email: amalpk531@gmail.com
 fun_fact: "At least 01-07-365"
-currently_learning: ["Advanced React", "Cloud Technologies", "DevOps"]
-interests: ["Web Development", "Open Source", "Tech Innovation"]
 ```
 
 ---
