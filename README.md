@@ -10,7 +10,9 @@
 </h5>
 
 <div align="center">  
-https://komarev.com/ghpvc/?username=amalpk531&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS
+  
+![Profile Views](https://komarev.com/ghpvc/?username=amalpk531&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
