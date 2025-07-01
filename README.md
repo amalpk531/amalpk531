@@ -5,7 +5,7 @@
 # 👋 Hi there, I'm **Amal PK**
 ### 🚀 Passionate Developer | 🇮🇳 From India
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IT+Student;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=218&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=A.Developer;who;Always Learning!" alt="Typing SVG" />
 
 </div>
 
@@ -19,18 +19,12 @@
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 🎓 **B.Tech in Information Technology**  
 📧 **amalpk531@gmail.com**  
 ⚡ **Fun Fact:** *Code at least once daily - 365 days a year!*
 
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amalpk531&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" width="100%"/>
-
-</td>
 </tr>
 </table>
 
@@ -52,6 +46,8 @@
 <a href="mailto:amalpk531@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=amalpk531&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -91,6 +87,5 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=amalpk531&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
