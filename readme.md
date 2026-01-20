@@ -60,31 +60,42 @@ fun_fact: "work  01-07-365"
 <div align="center">
   <h3>🚀 Tech Stack</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html" height="32" alt="HTML"/>
+    <img src="https://skillicons.dev/icons?i=html" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=css" height="32" alt="CSS"/>
+    <img src="https://skillicons.dev/icons?i=css" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=js" height="32" alt="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=js" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=ts" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react" height="32" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=python" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=django" height="32" alt="Django"/>
+    <img src="https://skillicons.dev/icons?i=react" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="Bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma"/>
+    <img src="https://skillicons.dev/icons?i=nestjs" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=git" height="32" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=django" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=postgres" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VS Code"/>
+    <img src="https://skillicons.dev/icons?i=docker" height="32" />
     &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=aws" height="32" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=gcp" height="32" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" height="32" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" height="32" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" height="32" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=figma" height="32" />
   </p>
 </div>
+
 
   <h4 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=15&duration=5000&pause=3000&color=7D8590&center=true&vCenter=true&width=600&lines='+make+your+action+reflects+your+word+'"" alt="Subtitle" />
