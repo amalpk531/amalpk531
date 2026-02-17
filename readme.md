@@ -25,7 +25,7 @@ location: India
 
 email: amalpk531@gmail.com
 
-fun_fact: "work  01-07-365"
+currently persuing devops and cloud
 
 ```
 </div>
