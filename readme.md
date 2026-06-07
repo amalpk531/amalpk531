@@ -7,20 +7,6 @@
 <h4 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=15&duration=2000&pause=1000&color=7D8590&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer+%7C+AWS+%7C+Kubernetes+%7C+Terraform;Building+scalable+infra+%26+CI%2FCD+pipelines;Kannur%2C+Kerala+%F0%9F%87%AE%F0%9F%87%B3" alt="Subtitle" />
 </h4>
-
-<br>
-
-```yaml
-whoami:
-  name: Amal PK
-  role: Cloud & DevOps Engineer
-  education: B.Tech — Information Technology
-  location: Kannur, Kerala, India
-  email: amalpk531@gmail.com
-  status: AWS DevOps Engineer Trainee @ Cokonet Academy
-  seeking: Junior DevOps | Cloud Engineer | SRE
-```
-
 <br>
 
 ---
@@ -58,7 +44,6 @@ whoami:
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=amalpk531&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="155" />
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amalpk531&theme=github-dark&hide_border=true" height="155" />
 
