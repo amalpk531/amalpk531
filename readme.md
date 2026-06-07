@@ -28,33 +28,28 @@ whoami:
 
 <div align="center">
 
-### ☁️ Cloud & DevOps
+### 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=aws" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=kubernetes" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=terraform" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ansible" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=jenkins" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nginx" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" height="36" />
-
-### 🐍 Backend & Languages
-
-<img src="https://skillicons.dev/icons?i=python" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=django" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" height="36" />
-
-### 🗄️ Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=postgres" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="36" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="36" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=terraform" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ansible" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="32" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="32" />
+</p>
 
 </div>
 
